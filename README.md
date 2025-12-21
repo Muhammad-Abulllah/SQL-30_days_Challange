@@ -31,6 +31,7 @@ I will be uploading my daily progress in the following format:
 | 01 | Introduction | ✅ |
 | 02 | SELECT Statement | ✅ |
 | 03 | WHERE Clause | ✅ |
+| 04 | ORDER BY, DISTINCT, LIMIT | ✅ |
 
 ---
 *Connect with me on [LinkedIn](https://www.linkedin.com/in/abdullah-nisar-aa7335247/) to follow my updates!*
