@@ -32,6 +32,7 @@ I will be uploading my daily progress in the following format:
 | 02 | SELECT Statement | ✅ |
 | 03 | WHERE Clause | ✅ |
 | 04 | ORDER BY, DISTINCT, LIMIT | ✅ |
+| 05 | AND, OR, LIKE operators| ✅ |
 
 ---
 *Connect with me on [LinkedIn](https://www.linkedin.com/in/abdullah-nisar-aa7335247/) to follow my updates!*
